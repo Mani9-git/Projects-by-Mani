@@ -1,2 +1,2 @@
 # Projects-by-Mani
-All the projects made by Manideep
+This is beginning
